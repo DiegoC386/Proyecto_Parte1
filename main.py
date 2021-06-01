@@ -327,7 +327,7 @@ while(True):
                     rta_pregunta_de_seguridad.pop(indice)
                     estado_sesion.pop(indice)  
                     print("La cuenta se ha eliminado exitosamente.") 
-                else:    
+								else:    
                     print("El numero de cuenta no existe. Debe iniciar de nuevo el proceso.")
             elif  opcion==3:  
                 print("\n")               
